@@ -81,7 +81,7 @@
 					<version>3.0.0-M3</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>${SuiteXmlFile1}</suiteXmlFile>
+							<suiteXmlFile>SmokeTests.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
